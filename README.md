@@ -5,4 +5,3 @@
 
 
 Or [click](https://wristcircumference-linpei.streamlit.app/)
-[APP](streamlit_app.png)
