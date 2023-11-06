@@ -217,7 +217,7 @@ elif choose == "Prediction":
             if column not in input_df.columns:
                 input_df[column] = 0
         
-        input_df = input_df[['Heightin','Weightlbs','Age','Gender','footlength']+[columns_to_add]]
+        input_df = input_df[['Heightin','Weightlbs','Age','Gender','footlength']+columns_to_add]
 
         prediction = model.predict(input_df)[0]
 
