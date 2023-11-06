@@ -4,5 +4,5 @@
 - Step3: $ streamlit run Streamlit_app.py  
 
 
-Or [clike](https://wristcircumference-linpei.streamlit.app/)
+Or [click](https://wristcircumference-linpei.streamlit.app/)
 
